@@ -28,4 +28,4 @@ This portfolio contains all my assignments from my Customer Data Analytics. Ther
 10. **Module 10: Text Analysis**
   - [A10: Vegas Resorts Text Mining](https://colab.research.google.com/drive/14fdEpcdZ2zWRyxkgfdMp_jNcJzEVzP7w?usp=sharing)
 11. **Module 11: Use Github to make your own assignment portfolio**
-  - [A11 Market your Customer Data Analytics Skills](
+  - [A11 Market your Customer Data Analytics Skills](https://github.com/Patrickd65/CustomerDataAnalyticsPD/)
